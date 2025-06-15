@@ -1,0 +1,4 @@
+/* 为不同标题级别设置缩进 */
+h1 { padding-left: 0; }
+h2 { padding-left: 1em; }
+h3 { padding-left: 2em; }

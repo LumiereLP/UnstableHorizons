@@ -1,0 +1,9 @@
+{
+  "accentColor": "#6ab5fb",
+  "cssTheme": "Blue Topaz",
+  "textFontFamily": "Noto Serif CJK SC",
+  "baseFontSize": 22,
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "baseFontSizeAction": true
+}
